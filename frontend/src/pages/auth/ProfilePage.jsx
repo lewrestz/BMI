@@ -20,7 +20,7 @@ export default function ProfilePage() {
   ];
 
   return (
-    <div className="space-y-10 animate-fade-in pb-20">
+    <div className="space-y-11 animate-fade-in pb-20">
       <PageHeader 
         title={t('common.profile')} 
         subtitle={t('common.profile_subtitle')}
